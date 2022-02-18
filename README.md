@@ -2,7 +2,7 @@
 
 I am a current undergraduate student at Boston University studying Computer Science & Statistics!
 
-![Metrics](/metrics.plugin.languages.indepth.svg)
+![Metrics](/metrics.plugin.languages.svg)
 
 <!--
 **jeffreyhsu01/jeffreyhsu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
