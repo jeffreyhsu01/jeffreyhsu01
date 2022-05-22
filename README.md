@@ -1,6 +1,6 @@
 ### Hi nice to meet you! 👋
 
-I am a current undergraduate student at Boston University studying Computer Science & Statistics!
+I am an undergraduate student at Boston University studying Computer Science & Statistics! I have experience with embedded systems, microservices, and monolithic applications. 
 
 ![Metrics](/metrics.plugin.languages.svg)
 
