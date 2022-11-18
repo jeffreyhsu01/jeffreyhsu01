@@ -2,7 +2,7 @@
 
 I am an undergraduate student at Boston University studying Computer Science & Statistics! I have experience with embedded systems, microservices, and monolithic applications. 
 
-![Metrics](./metrics.plugin.languages.svg)
+<img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="400">
 
 
 <!--
